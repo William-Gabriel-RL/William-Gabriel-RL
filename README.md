@@ -1,0 +1,5 @@
+- 👋 Hi, I’m William Gabriel
+- 👀 I’m interested in C#, Python and Solidity
+- 🌱 I’m currently learning C# and Solidity
+- 💞️ I’m looking to collaborate on C# projects
+- 📫 How to reach me williamgabriel.rl@protonmail.com
